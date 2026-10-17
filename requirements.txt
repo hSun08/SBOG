@@ -1,0 +1,29 @@
+# Python 3.10.  Install with:  pip install -r requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+xformers==0.0.29.post3
+setuptools<70
+faiss-cpu==1.8.0.post1
+diffusers==0.27.2
+pytorch-lightning==1.9.5
+omegaconf==2.1.1
+einops==0.3.0
+kornia==0.6.0
+opencv-python==4.10.0.84
+invisible-watermark==0.2.0
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+transformers==4.39.3
+huggingface_hub==0.22.2
+safetensors==0.4.5
+taming-transformers-rom1504==0.0.6
+scikit-learn
+scipy
+pyyaml
+pandas
+matplotlib
+tqdm
+pyarrow
+gdown
+git+https://github.com/openai/CLIP.git

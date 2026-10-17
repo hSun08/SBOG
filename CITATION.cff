@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SBOG: Sinkhorn Boundary Outlier Generation"
+authors:
+  - family-names: Sun
+    given-names: Haixiang
+    affiliation: "Edwardson School of Industrial Engineering, Purdue University"
+  - family-names: Liu
+    given-names: Andrew L.
+    affiliation: "Edwardson School of Industrial Engineering, Purdue University"
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Empirical Support: Structured Outlier Generation via Sinkhorn Optimal Transport"
+  authors:
+    - family-names: Sun
+      given-names: Haixiang
+    - family-names: Liu
+      given-names: Andrew L.
+  collection-title: "Advances in Neural Information Processing Systems (NeurIPS)"
+  url: "https://arxiv.org/abs/2609.31470"
+  year: 2026
